@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
 **About me**
 I am currently a management trainee at the headoffice of the Bank of China, working in the Financial Markets Department. My main responsibilities include conducting demand analysis for fintech, managing projects, and researching the valuation and pricing of derivatives. Before that i received my master's degree from Peking University, under the supervised by Prof. Yuejian Fang
 
@@ -17,12 +16,10 @@ You can find my CV here: ...
 - [LinkedIn](https://www.linkedin.com/in/boxuan-sun)  
 - [GitHub](https://github.com/Boxuan-Sun)
 ---
----
 Education
 ======
 * Sep 2019 - Jul 2022. Master in School of Software and Microelectronics, Peking University.
 * Sep 2015 - Jul 2019. BSc. in School of Precision Instrument and Opto-Electronics Engineering, Tianjin University.
----
 ---
 Work experience
 ======
