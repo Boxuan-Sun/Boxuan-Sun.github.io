@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Beijing, Peking University, 2022
-* B.S. in Tianjin, Tianjin University, 2019
+* Sep 2019 - Jul 2022. Master in School of Software and Microelectronics, Peking University.
+* Sep 2015 - Jul 2019. BSc. in School of Precision Instrument and Opto-Electronics Engineering, Tianjin University.
 
 Work experience
 ======
