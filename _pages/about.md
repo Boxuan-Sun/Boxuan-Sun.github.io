@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I graduated with a Master's degree in Computer Science from [Peking University](https://www.pku.edu.cn/) in 2022, my research interest includes natural language processing and deep learning. I am very fortunate to be advised by [Prof. Fang Yue jian]. Before that, I completed my Bachelor's degree in 2019 at the School of Precision Instrument and Opto-Electronics Engineering in [Tianjin University](https://www.tju.edu.cn/).
+
+I am currently a management trainee at the headoffice of the Bank of China, working in the Financial Markets Department. My main responsibilities include conducting demand analysis for fintech, managing projects, and researching the valuation and pricing of derivatives. Before that i received my master's degree from Peking University, under the supervised by Prof. Yuejian Fang
+
 
 You can find my CV here: ...
 
