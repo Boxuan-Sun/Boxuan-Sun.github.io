@@ -18,11 +18,13 @@ You can find my CV here: ...
 - [LinkedIn](https://www.linkedin.com/in/boxuan-sun)  
 - [GitHub](https://github.com/Boxuan-Sun)
 ---
+
 Education
 ======
 * Sep 2019 - Jul 2022. Master in School of Software and Microelectronics, Peking University.
 * Sep 2015 - Jul 2019. BSc. in School of Precision Instrument and Opto-Electronics Engineering, Tianjin University.
 ---
+
 Work experience
 ======
 * Fall 2022: Management Trainee
@@ -37,6 +39,7 @@ Work experience
   * Microsoft 
   * Duties included: Tagging issues
 ---
+
 Skills
 ======
 * Software development
