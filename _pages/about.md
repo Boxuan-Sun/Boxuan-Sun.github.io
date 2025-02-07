@@ -9,7 +9,7 @@ redirect_from:
 ---
 **About me**
 ======
-My name is Sun Boxuan, and I currently work as a Management Trainee in the Financial Markets Department at the Bank of China headquarters, where I focus on project management and quantitative research. I earned my Master’s degree in Computer Science from Peking University under the guidance of Prof.Yuejian Fang, specializing in artificial intelligence and natural language processing. I completed my undergraduate studies at Tianjin University. I am passionate about bridging the gap between financial theory and advanced technology, and I strive to drive innovation and enhance risk management practices through the application of cutting-edge research.
+My name is Boxuan Sun, and I currently work as a Management Trainee in the Financial Markets Department at the Bank of China headquarters, where I focus on project management and quantitative research. I earned my Master’s degree in Computer Science from Peking University under the guidance of Prof.Yuejian Fang, specializing in artificial intelligence and natural language processing. I completed my undergraduate studies at Tianjin University. I am passionate about bridging the gap between financial theory and advanced technology, and I strive to drive innovation and enhance risk management practices through the application of cutting-edge research.
 
 You can contact me here: 
 
