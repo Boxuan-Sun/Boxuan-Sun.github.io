@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a management trainee at the headoffice of the Bank of China, working in the Financial Markets Department. My main responsibilities include conducting demand analysis for fintech, managing projects, and researching the valuation and pricing of derivatives. Before that i received my master's degree from Peking University, under the supervised by Prof. Yuejian Fang
+My name is Sun Boxuan, and I currently work as a Management Trainee in the Financial Markets Department at the Bank of China headquarters, where I focus on project management and quantitative research. I earned my Master’s degree in Computer Science from Peking University under the guidance of Prof.Yuejian Fang, specializing in artificial intelligence and natural language processing. I completed my undergraduate studies at Tianjin University. I am passionate about bridging the gap between financial theory and advanced technology, and I strive to drive innovation and enhance risk management practices through the application of cutting-edge research.
 
-You can find my CV here: ...
+You can contact me on: 
 
 - [Email](sunboxuan@pku.edu.cn)
 - [LinkedIn](https://www.linkedin.com/in/boxuan-sun)  
 - [GitHub](https://github.com/Boxuan-Sun)
 ---
 
-Education
-
+**Education**
+======
 * Sep 2019 - Jul 2022. Master in School of Software and Microelectronics, Peking University.
 * Sep 2015 - Jul 2019. BSc. in School of Precision Instrument and Opto-Electronics Engineering, Tianjin University.
+---
+
   
 Work experience
 ======
@@ -34,23 +36,22 @@ Work experience
 
 * Winter 2020: Intern Algorithm Engineer
   * Microsoft 
-  * Duties included: Tagging issues
+  * Duties included: Tagging issues, Natural language processing
 ---
 
 Skills
 ======
 * Software development
 * Artifical Intelligence
-  * Natural Language Processing（NER、LLM)
+  * Natural Language Processing（Distillation、LLM)
   * Machine Learning 
   * Deep Learning
 * Product management
 ---
+
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 《Study on Chinese Named Entity Recognition Based on Knowledge Distillation》 Directed by Prof.Yuejian Fang 
 ---  
 
 
